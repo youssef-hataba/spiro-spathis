@@ -38,9 +38,9 @@ function changeCarousel() {
     clearInterval(refreshInterval);
     refreshInterval = setInterval(() => {
         next.click();
-    }, 3000);
+    }, 5000);
 }
 
 let refreshInterval = setInterval(() => {
     next.click();
-}, 3000);
+}, 5000);
