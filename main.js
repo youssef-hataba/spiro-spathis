@@ -41,6 +41,6 @@ function changeCarousel() {
     }, 3000);
 }
 
-// let refreshInterval = setInterval(() => {
-//     next.click();
-// }, 3000);
+let refreshInterval = setInterval(() => {
+    next.click();
+}, 3000);
